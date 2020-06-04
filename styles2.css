@@ -1,0 +1,67 @@
+body{
+background-attachment: fixed;
+background-repeat: no-repeat;
+    background-image: url(sfondo.jpg);
+    background-position: 0px 0px;
+    background-size: cover;
+    margin: 0px;
+font-family: Verdana;
+color: 	#ff8c00;
+  
+}
+  
+ img { border: 1.5px solid #ffffff	; }
+nav ul {
+  background-color:white;
+  border-style:solid;
+  border-color:white;
+  border-width: 1px;
+  padding: 20px;
+  border-radius: 0px;
+ }
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 15px;
+    margin-left: 10px;
+     
+   
+   }
+
+nav ul li a1 {
+    text-decoration:none;
+    color:white;
+   letter-spacing:3px;
+   }
+.Assemblaggio{
+   height: 60px;
+    border-radius: 10px;
+   width: 180px;
+   border: 0.0px	;
+}
+.card2{
+  position:absolute;
+  top: 700px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid #F0FFFF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 10px;
+    font-family: "Trebuchet MS", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    color: 		#ff4500;
+}
+.collage{
+   background-color: 		#f8f8ff;
+   border-radius: 10px;
+   border-color: 	#9400d3;
+  border-width: 2px;
+   border-style: solid;
+   
+}
+.IMMAGINE2{
+  border: 0.0px	;
+}

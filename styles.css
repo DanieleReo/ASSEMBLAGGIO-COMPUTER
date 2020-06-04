@@ -1,0 +1,188 @@
+body{
+background-attachment: fixed;
+background-repeat: no-repeat;
+    background-image: url(sfondo.jpg);
+    background-position: 0px 0px;
+    background-size: cover;
+    margin: 0px;
+font-family: "Helvetica" , ;
+color: 	#ff8c00;
+}
+
+  img { border: 1.5px solid #ffffff	; }
+
+nav ul {
+  display: flex;
+  padding: 0.5em;
+  
+}
+
+nav ul li {
+    list-style-type: none;
+    text-align: center;
+    margin-right: 1em;
+    margin-left: 1em;
+}
+nav ul li a {
+    text-decoration: none;
+    color:	#c0c0c0;
+}
+
+.tinyPicture {
+    height: 60px;
+    border-radius: 10px;
+}
+.ASSEMBLAGGIO{
+  position:absolute;
+  top: 2400px;
+   width: 200px;
+    height: 75px;
+   border: 0.0px	;
+    height: 60px;
+    border-radius: 10px;
+
+}
+.testo_index{
+  background: url(stellato.jpg);
+   border-style: solid;
+  border-color: 	#9400d3;
+  border-width: 2px;
+  border-radius: 10px;
+  padding: 0.5em;
+    margin-right: 2.5em;
+    margin-left: 2.5em;
+    height: 1500px;
+  color:#adff2f;
+}
+.Assemblaggio{
+   height: 60px;
+    border-radius: 10px;
+   width: 180px;
+   border: 0.0px	;
+}
+.card2{
+  position:absolute;
+  top: 3000px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid #F0FFFF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 10px;
+    font-family: "Trebuchet MS", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    color: 		#ff4500;
+}
+.collage{
+   background-color: 		#f8f8ff;
+   border-radius: 10px;
+   border-color: 	#9400d3;
+  border-width: 2px;
+   border-style: solid;
+   
+}
+.card {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #F0FFFF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 10px;
+    font-family: "Trebuchet MS", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    color: 		#ff4500;
+  }
+.card:hover {
+    border-color: #1E90FF; 
+    background: 	#f0f8ff;
+}
+.cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+   
+}
+.absPos {
+    position: absolute;
+    border: 2px solid #ba55d3;
+}
+.relPos {
+    position: relative;
+    top: 650px;
+    left:660px;
+}
+#photoBox {
+    width: 800px;
+    height: 400px;
+}
+#imgYoungKestrel1{
+  width:230px;
+  top:130px;
+  left:10px;
+  z-index: 12;
+}
+#imgYoungKestrel2{
+  width:250px;
+  top:210px;
+  left:160px;
+  z-index: 10;
+}
+#imgYoungKestrel3{
+  width:290px;
+  top:40px;
+  left:290px;
+  z-index: 9;
+}
+#imgYoungKestrel4{
+  width:200px;
+  top:10px;
+  left:80px;
+  z-index: 10;
+}
+#imgYoungKestrel5{
+  width:190px;
+  top:350px;
+  left:50px;
+  z-index: 10;
+}
+#imgYoungKestrel6{
+  width:230px;
+  top:490px;
+  left:210px;
+  z-index: 11;
+}
+#imgYoungKestrel7{
+  width:300px;
+  top:360px;
+  left:460px;
+  z-index: 12;
+}
+#imgYoungKestrel8{
+  width:250px;
+  top:190px;
+  left:450px;
+  z-index: 13;
+}
+#imgYoungKestrel9{
+  width:350px;
+  top:25px;
+  left:590px;
+  z-index: 13;
+}
+#imgYoungKestrel10{
+  width:250px;
+  top:290px;
+  left:650px;
+  z-index: 13;
+}
+#imgYoungKestrel11{
+  width:180px;
+  top:580px;
+  left:490px;
+  z-index: 13;
+}
